@@ -1,0 +1,29 @@
+#divGastos {
+    padding: 1%;
+}
+
+#divIngresos {
+    padding: 1%;
+}
+
+#ingresos {
+    background-color: rgb(172, 218, 172, 0.8) ;
+    border: 2px solid rgb(118, 199, 118);
+    padding: 7%;
+    border-radius: 5%;
+}
+
+#gastos {
+    background-color: rgb(201, 154, 148, 0.8) ;
+    border: 2px solid rgb(168, 83, 72);
+    padding:  7%;
+    border-radius: 5%;
+
+}
+
+#tablaGastos {
+    background-color: rgb(201, 154, 148, 0.2) ;
+    border: 2px solid rgb(168, 83, 72);
+    padding:  7%;
+    border-radius: 5%;
+}
